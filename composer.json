@@ -1,0 +1,19 @@
+{
+    "name": "plant/aloe",
+    "description": "mvc module",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Plant\\Aloe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuan",
+            "email": "zeyuanlucky@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
